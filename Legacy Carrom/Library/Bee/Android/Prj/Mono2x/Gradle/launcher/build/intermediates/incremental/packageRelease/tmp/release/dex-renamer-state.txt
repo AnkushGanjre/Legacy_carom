@@ -1,4 +1,0 @@
-#Tue Aug 08 00:05:43 IST 2023
-base.0=E\:\\Unity Projects\\Legacy Carrom\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,4 +1,0 @@
-repository "Legacy Carrom@AnkushMWFT@cloud"
-  path "/"
-    br "/main"
-    co "/main"
